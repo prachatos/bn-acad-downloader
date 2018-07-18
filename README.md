@@ -14,7 +14,8 @@ A small Python tool to auto-download PDFs from [Bangla Academy][bang-acad]
 # Installation
   - Python 3.6
   - (On Linux) sudo pip3 install -r requirements.txt
-  - Run python app.py
+  - sudo pip3 install setuptools (Required for cssselect)
+  - Run python3 app.py
 
 [bang-acad]: <http://library.banglaacademy.org.bd>
    
